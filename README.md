@@ -1,11 +1,11 @@
 ## Python Fast API (MNS)
 
-###Run local server
+### Run local server
 ```
 uvicorn server:app --reload
 ```
 
-###Send requests
+### Send requests
 ```
 python main.py
 ```
